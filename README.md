@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Bbutton Ventures](https://bbutton.com.br/)
 
-- 🌱 I’m currently learning **Business Inteligence**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/davi-barros-de-rezende-09540b222/](https://www.linkedin.com/in/davi-barros-de-rezende-09540b222/)
 
-- 💬 Ask me about **SQL, MYSQL, React, NODE.js**
+- 💬 Ask me about **SQL, Python, MYSQL**
 
 - 📫 How to reach me **davidbecam006@gmail.com**
 
